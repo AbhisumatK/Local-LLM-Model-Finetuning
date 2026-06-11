@@ -1,2 +1,5 @@
 /unsloth_compiled_cache/
 /.ipynb_checkpoints/
+/gguf_model_gguf/
+/gguf_model/
+/outputs/
